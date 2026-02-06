@@ -13,6 +13,7 @@ public class ex_if_else02 {
 		}else {
 			System.out.println("O número é ímpar");
 		}
+		
 		sc.close();
 	}
 

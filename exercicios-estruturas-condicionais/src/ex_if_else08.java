@@ -27,7 +27,6 @@ public class ex_if_else08 {
 		}else {
 			System.out.printf("O valor cobrado é de RS %.2f%n", imposto);
 		}
-		
 		sc.close();
 	}
 

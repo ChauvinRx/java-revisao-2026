@@ -7,7 +7,7 @@ Este repositório contém exercícios de Java feitos durante minhas revisões e 
 - Estruturas condicionais
 - Estruturas repetitivas
 - Arrays, listas e matrizes (em breve)
-- Programação orientada a objetos (em breve)
+- Programação orientada a objetos
 
 ## Objetivo
 Reforçar a base em Java com prática constante e organização dos estudos.
